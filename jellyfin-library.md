@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-10-18 18:54:30 EDT*
+*Last updated: 2025-10-18 19:01:49 EDT*
 
 ## Movies
 
@@ -164,6 +164,7 @@
 - Moana (2016)
 - Moana 2 (2024)
 - Naked Gun 33⅓: The Final Insult (1994)
+- Night of the Creeps (1986)
 - Night of the Living Dead (1968)
 - Nineteen Eighty-Four (1984)
 - Nobody (2021)
@@ -368,16 +369,6 @@
 
 
 ### Alien: Earth (2025)
-
-**Season 1**
-- S01E01 Neverland
-- S01E02 Mr. October
-- S01E03 Metamorphosis
-- S01E04 Observation
-- S01E05 In Space, No One...
-- S01E06 The Fly
-- S01E07 Emergence
-- S01E08 The Real Monsters
 
 **Season 1**
 - S01E01 Neverland
@@ -1587,6 +1578,6 @@
 ---
 
 **Summary:**
-- Movies: 336
+- Movies: 337
 - TV Shows: 64
 - Episodes: 845
