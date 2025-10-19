@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-10-18 19:04:42 EDT*
+*Last updated: 2025-10-19 02:00:07 EDT*
 
 ## Movies
 
@@ -78,6 +78,7 @@
 - Dune: Part Two (2024)
 - Elio (2025)
 - Enemy of the State (1998)
+- Ernest Scared Stupid (1991)
 - Event Horizon (1997)
 - Expend4bles (2023)
 - F1 (2025)
@@ -101,6 +102,7 @@
 - Guardians of the Galaxy Vol. 2 (2017)
 - Guardians of the Galaxy Vol. 3 (2023)
 - Halloween (1978)
+- Hampstead (2017)
 - Happy Gilmore (1996)
 - Happy Gilmore 2 (2025)
 - Harry Potter 20th Anniversary: Return to Hogwarts (2022)
@@ -312,8 +314,6 @@
 - The Thing (1982)
 - The Thing (2011)
 - The Toxic Avenger (1984)
-- The Toxic Avenger Part II (1989)
-- The Toxic Avenger Part III: The Last Temptation of Toxie (1989)
 - The Toxic Avenger Unrated (2025)
 - The Way Back (2020)
 - The Whale (2022)
@@ -724,6 +724,7 @@
 ### Match of the Day (1964)
 
 **Season 2025**
+- S2025E00 Match of the Day
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
@@ -1580,4 +1581,4 @@
 **Summary:**
 - Movies: 337
 - TV Shows: 64
-- Episodes: 845
+- Episodes: 846
