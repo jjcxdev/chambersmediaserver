@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-10-19 02:00:07 EDT*
+*Last updated: 2025-10-20 02:00:07 EDT*
 
 ## Movies
 
@@ -734,6 +734,7 @@
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
+- S2025E00 Match of the Day
 
 
 ### Murdaugh: Death in the Family (2025)
@@ -1201,6 +1202,7 @@
 
 **Season 1**
 - S01E01 Life goes by too f**king fast, it really does.
+- S01E02 New blood. There's 5 Rons now.
 
 
 ### The Expanse (2015)
@@ -1581,4 +1583,4 @@
 **Summary:**
 - Movies: 337
 - TV Shows: 64
-- Episodes: 846
+- Episodes: 848
