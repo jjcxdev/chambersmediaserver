@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-10-25 02:00:05 EDT*
+*Last updated: 2025-10-26 02:00:08 EDT*
 
 ## Movies
 
@@ -574,6 +574,7 @@
 
 **Season 4**
 - S04E01 Goodbye for Now
+- S04E02 Not a Stray
 
 
 ### Gen V (2023)
@@ -724,6 +725,7 @@
 ### Match of the Day (1964)
 
 **Season 2025**
+- S2025E00 Match of the Day
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
@@ -1583,4 +1585,4 @@
 **Summary:**
 - Movies: 337
 - TV Shows: 64
-- Episodes: 848
+- Episodes: 850
