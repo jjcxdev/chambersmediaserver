@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-10-31 02:00:07 EDT*
+*Last updated: 2025-11-02 02:00:07 EST*
 
 ## Movies
 
@@ -575,6 +575,7 @@
 **Season 4**
 - S04E01 Goodbye for Now
 - S04E02 Not a Stray
+- S04E03 The Tiny Ways We Start to Heal
 
 
 ### Gen V (2023)
@@ -1094,6 +1095,7 @@
 
 **Season 28**
 - S28E01 Twisted Christian
+- S28E02 The Woman in the Hat
 
 
 ### Squid Game (2021)
@@ -1587,4 +1589,4 @@
 **Summary:**
 - Movies: 337
 - TV Shows: 64
-- Episodes: 852
+- Episodes: 854
