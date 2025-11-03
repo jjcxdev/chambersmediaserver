@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-02 02:00:07 EST*
+*Last updated: 2025-11-03 02:00:09 EST*
 
 ## Movies
 
@@ -20,6 +20,7 @@
 - Aliens (1986)
 - Alien³ (1992)
 - All Quiet on the Western Front (2022)
+- American History X (1998)
 - American Sniper (2014)
 - Animal Farm (1954)
 - Any Given Sunday (1999)
@@ -739,6 +740,7 @@
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
+- S2025E00 Match of the Day
 
 
 ### Murdaugh: Death in the Family (2025)
@@ -747,6 +749,8 @@
 - S01E01 Episode 1
 - S01E02 One Is Missing
 - S01E03 Kokomo
+- S01E04 Controlled Burn
+- S01E05 The Prince
 
 
 ### Murderbot (2025)
@@ -1209,6 +1213,7 @@
 - S01E01 Life goes by too f**king fast, it really does.
 - S01E02 New blood. There's 5 Rons now.
 - S01E03 @BrownDerbyHistoricVids Little bit of Hollywood? Okayyy.
+- S01E04 Bahld Harmon birthplace (disputed)
 
 
 ### The Expanse (2015)
@@ -1587,6 +1592,6 @@
 ---
 
 **Summary:**
-- Movies: 337
+- Movies: 338
 - TV Shows: 64
-- Episodes: 854
+- Episodes: 858
