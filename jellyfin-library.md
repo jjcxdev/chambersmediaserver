@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-03 02:00:09 EST*
+*Last updated: 2025-11-04 02:00:07 EST*
 
 ## Movies
 
@@ -120,6 +120,7 @@
 - House of Gucci (2021)
 - How to Train Your Dragon (2025)
 - Immortals (2011)
+- In the Mouth of Madness (1995)
 - Inception (2010)
 - Indiana Jones and the Dial of Destiny (2023)
 - Indiana Jones and the Kingdom of the Crystal Skull (2008)
@@ -144,6 +145,7 @@
 - Labyrinth (1986)
 - Late Night with the Devil (2024)
 - Lavalantula (2015)
+- Legend (1985)
 - Lilo & Stitch (2025)
 - Lock, Stock and Two Smoking Barrels (1998)
 - Lord of the Flies (1963)
@@ -183,6 +185,7 @@
 - Predator (1987)
 - Predator 2 (1990)
 - Prey (2022)
+- Prince of Darkness (1987)
 - Raging Bull (1980)
 - Raiders of the Lost Ark (1981)
 - Rambo (2008)
@@ -1592,6 +1595,6 @@
 ---
 
 **Summary:**
-- Movies: 338
+- Movies: 341
 - TV Shows: 64
 - Episodes: 858
