@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-04 02:00:07 EST*
+*Last updated: 2025-11-05 02:00:05 EST*
 
 ## Movies
 
@@ -754,6 +754,7 @@
 - S01E03 Kokomo
 - S01E04 Controlled Burn
 - S01E05 The Prince
+- S01E06 Episode 6
 
 
 ### Murderbot (2025)
@@ -1597,4 +1598,4 @@
 **Summary:**
 - Movies: 341
 - TV Shows: 64
-- Episodes: 858
+- Episodes: 859
