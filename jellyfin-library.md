@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-05 02:00:05 EST*
+*Last updated: 2025-11-06 02:00:06 EST*
 
 ## Movies
 
@@ -312,6 +312,7 @@
 - The Rose (1979)
 - The Royal Tenenbaums (2001)
 - The Running Man (1987)
+- The Smashing Machine (2025)
 - The Substance (2024)
 - The Sum of All Fears (2002)
 - The Terminator (1984)
@@ -1596,6 +1597,6 @@
 ---
 
 **Summary:**
-- Movies: 341
+- Movies: 342
 - TV Shows: 64
 - Episodes: 859
