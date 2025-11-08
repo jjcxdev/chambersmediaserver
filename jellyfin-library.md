@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-07 02:00:07 EST*
+*Last updated: 2025-11-08 02:00:07 EST*
 
 ## Movies
 
@@ -581,6 +581,7 @@
 - S04E01 Goodbye for Now
 - S04E02 Not a Stray
 - S04E03 The Tiny Ways We Start to Heal
+- S04E04 Like a Wounded Wildebeest
 
 
 ### Gen V (2023)
@@ -1599,4 +1600,4 @@
 **Summary:**
 - Movies: 342
 - TV Shows: 64
-- Episodes: 859
+- Episodes: 860
