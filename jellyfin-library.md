@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-08 02:00:07 EST*
+*Last updated: 2025-11-09 02:00:07 EST*
 
 ## Movies
 
@@ -732,6 +732,7 @@
 ### Match of the Day (1964)
 
 **Season 2025**
+- S2025E00 Match of the Day
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
@@ -1600,4 +1601,4 @@
 **Summary:**
 - Movies: 342
 - TV Shows: 64
-- Episodes: 860
+- Episodes: 861
