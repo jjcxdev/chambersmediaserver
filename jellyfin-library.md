@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-09 02:00:07 EST*
+*Last updated: 2025-11-10 02:00:05 EST*
 
 ## Movies
 
@@ -89,6 +89,7 @@
 - First Blood (1982)
 - For a Few Dollars More (1965)
 - Forrest Gump (1994)
+- Frankenstein (2025)
 - Friday the 13th (1980)
 - Friendship (2025)
 - Full Metal Jacket (1987)
@@ -747,6 +748,7 @@
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
+- S2025E00 Match of the Day
 
 
 ### Murdaugh: Death in the Family (2025)
@@ -1221,6 +1223,7 @@
 - S01E02 New blood. There's 5 Rons now.
 - S01E03 @BrownDerbyHistoricVids Little bit of Hollywood? Okayyy.
 - S01E04 Bahld Harmon birthplace (disputed)
+- S01E05 I won. Zoom in.
 
 
 ### The Expanse (2015)
@@ -1599,6 +1602,6 @@
 ---
 
 **Summary:**
-- Movies: 342
+- Movies: 343
 - TV Shows: 64
-- Episodes: 861
+- Episodes: 863
