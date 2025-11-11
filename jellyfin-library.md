@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-10 02:00:05 EST*
+*Last updated: 2025-11-11 02:00:05 EST*
 
 ## Movies
 
@@ -182,6 +182,7 @@
 - Oldboy (2013)
 - Patriot Games (1992)
 - Phil Spector (2013)
+- Planes, Trains and Automobiles (1987)
 - Poltergeist (1982)
 - Predator (1987)
 - Predator 2 (1990)
@@ -1602,6 +1603,6 @@
 ---
 
 **Summary:**
-- Movies: 343
+- Movies: 344
 - TV Shows: 64
 - Episodes: 863
