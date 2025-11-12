@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-11 02:00:05 EST*
+*Last updated: 2025-11-12 02:00:04 EST*
 
 ## Movies
 
@@ -761,6 +761,7 @@
 - S01E04 Controlled Burn
 - S01E05 The Prince
 - S01E06 Episode 6
+- S01E07 On The Road You Take to Avoid It
 
 
 ### Murderbot (2025)
@@ -1605,4 +1606,4 @@
 **Summary:**
 - Movies: 344
 - TV Shows: 64
-- Episodes: 863
+- Episodes: 864
