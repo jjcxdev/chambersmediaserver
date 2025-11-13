@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-12 02:00:04 EST*
+*Last updated: 2025-11-13 02:00:07 EST*
 
 ## Movies
 
@@ -27,6 +27,9 @@
 - Apocalypse Now (1979)
 - Argylle (2024)
 - Attack of the Killer Tomatoes! (1978)
+- Avengers: Age of Ultron (2015)
+- Avengers: Endgame (2019)
+- Avengers: Infinity War (2018)
 - Back to the Future (1985)
 - Back to the Future Part II (1989)
 - Back to the Future Part III (1990)
@@ -271,6 +274,7 @@
 - The Accountant² (2025)
 - The Amateur (2025)
 - The Assassination of Jesse James by the Coward Robert Ford (2007)
+- The Avengers (2012)
 - The Blob (1988)
 - The Conversation (1974)
 - The Creator (2023)
@@ -1111,6 +1115,7 @@
 **Season 28**
 - S28E01 Twisted Christian
 - S28E02 The Woman in the Hat
+- S28E03 Sora Not Sorry
 
 
 ### Squid Game (2021)
@@ -1604,6 +1609,6 @@
 ---
 
 **Summary:**
-- Movies: 344
+- Movies: 348
 - TV Shows: 64
-- Episodes: 864
+- Episodes: 865
