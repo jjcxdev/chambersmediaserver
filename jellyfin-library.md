@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-13 02:00:07 EST*
+*Last updated: 2025-11-14 02:00:07 EST*
 
 ## Movies
 
@@ -183,6 +183,7 @@
 - Old Guy (2024)
 - Oldboy (2003)
 - Oldboy (2013)
+- One Battle After Another (2025)
 - Patriot Games (1992)
 - Phil Spector (2013)
 - Planes, Trains and Automobiles (1987)
@@ -1180,6 +1181,8 @@
 - S02E06 The Doomsday Machine
 - S02E07 Catspaw
 - S02E09 Metamorphosis
+- S02E10 Journey to Babel
+- S02E11 Friday's Child
 - S02E12 The Deadly Years
 - S02E13 Obsession
 - S02E14 Wolf in the Fold
@@ -1197,6 +1200,11 @@
 - S02E26 Assignment: Earth
 
 **Season 3**
+- S03E01 Spock's Brain
+- S03E10 Plato's Stepchildren
+- S03E13 Elaan of Troyius
+- S03E14 Whom Gods Destroy
+- S03E19 Requiem for Methuselah
 
 
 ### Star Wars: Andor (2022)
@@ -1609,6 +1617,6 @@
 ---
 
 **Summary:**
-- Movies: 348
+- Movies: 349
 - TV Shows: 64
-- Episodes: 865
+- Episodes: 872
