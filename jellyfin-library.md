@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-14 02:00:07 EST*
+*Last updated: 2025-11-15 02:00:07 EST*
 
 ## Movies
 
@@ -258,7 +258,6 @@
 - State of Grace (1990)
 - Superman (1978)
 - Superman (2025)
-- Superman (2025)
 - Superman II (1980)
 - Superman II: The Richard Donner Cut (2006)
 - Superman III (1983)
@@ -288,6 +287,7 @@
 - The Expendables (2010)
 - The Expendables 2 (2012)
 - The Expendables 3 (2014)
+- The Fantastic 4: First Steps (2025)
 - The Fifth Element (1997)
 - The Final Girls (2015)
 - The Fly (1986)
@@ -332,6 +332,10 @@
 - The Wild Robot (2024)
 - The Woman in Cabin 10 (2025)
 - Then She Found Me (2007)
+- Thor (2011)
+- Thor: Love and Thunder (2022)
+- Thor: Ragnarok (2017)
+- Thor: The Dark World (2013)
 - Top Secret! (1984)
 - Total Recall (1990)
 - Trap (2024)
@@ -589,6 +593,7 @@
 - S04E02 Not a Stray
 - S04E03 The Tiny Ways We Start to Heal
 - S04E04 Like a Wounded Wildebeest
+- S04E05 Happy First Day, Manny
 
 
 ### Gen V (2023)
@@ -1617,6 +1622,6 @@
 ---
 
 **Summary:**
-- Movies: 349
+- Movies: 353
 - TV Shows: 64
-- Episodes: 872
+- Episodes: 873
