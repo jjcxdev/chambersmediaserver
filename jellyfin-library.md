@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-15 02:00:07 EST*
+*Last updated: 2025-11-16 02:00:03 EST*
 
 ## Movies
 
@@ -726,6 +726,9 @@
 - S01E06 Beware the Second Beating
 - S01E07 All Roads Lead to a Hole
 - S01E08 Clumsy, This Life
+
+**Season 2**
+- S02E01 Death and a Sunset
 
 
 ### Lockerbie: A Search for Truth (2025)
@@ -1624,4 +1627,4 @@
 **Summary:**
 - Movies: 353
 - TV Shows: 64
-- Episodes: 873
+- Episodes: 874
