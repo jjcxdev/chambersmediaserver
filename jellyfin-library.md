@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-16 02:00:03 EST*
+*Last updated: 2025-11-17 02:00:06 EST*
 
 ## Movies
 
@@ -21,6 +21,7 @@
 - Alien³ (1992)
 - All Quiet on the Western Front (2022)
 - American History X (1998)
+- American Psycho (2000)
 - American Sniper (2014)
 - Animal Farm (1954)
 - Any Given Sunday (1999)
@@ -318,6 +319,7 @@
 - The Phoenician Scheme (2025)
 - The Rose (1979)
 - The Royal Tenenbaums (2001)
+- The Rules of Attraction (2002)
 - The Running Man (1987)
 - The Smashing Machine (2025)
 - The Substance (2024)
@@ -1247,6 +1249,7 @@
 - S01E03 @BrownDerbyHistoricVids Little bit of Hollywood? Okayyy.
 - S01E04 Bahld Harmon birthplace (disputed)
 - S01E05 I won. Zoom in.
+- S01E06 Happy Birthday, A Friend.
 
 
 ### The Expanse (2015)
@@ -1625,6 +1628,6 @@
 ---
 
 **Summary:**
-- Movies: 353
+- Movies: 355
 - TV Shows: 64
-- Episodes: 874
+- Episodes: 875
