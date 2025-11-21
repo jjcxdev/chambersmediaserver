@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-20 02:00:04 EST*
+*Last updated: 2025-11-21 02:00:07 EST*
 
 ## Movies
 
@@ -78,6 +78,8 @@
 - Deadpool 2 (2018)
 - Demolition Man (1993)
 - Dick Tracy (1990)
+- Doctor Strange (2016)
+- Doctor Strange in the Multiverse of Madness (2022)
 - Dog Day Afternoon (1975)
 - Dolittle (2020)
 - Donnie Brasco (1997)
@@ -134,6 +136,7 @@
 - Indiana Jones and the Temple of Doom (1984)
 - Insomnia (2002)
 - Iron Man (2008)
+- Iron Man 2 (2010)
 - Iron Man 3 (2013)
 - JFK (1991)
 - Jaws (1975)
@@ -156,6 +159,7 @@
 - Legend (1985)
 - Lilo & Stitch (2025)
 - Lock, Stock and Two Smoking Barrels (1998)
+- Logan (2017)
 - Lord of the Flies (1963)
 - Lost in Space (1998)
 - Love Me (2025)
@@ -240,6 +244,7 @@
 - Speak No Evil (2024)
 - Spider-Man: Far From Home (2019)
 - Spider-Man: Homecoming (2017)
+- Spider-Man: No Way Home (2021)
 - Star Trek (2009)
 - Star Trek Beyond (2016)
 - Star Trek II: The Wrath of Khan (1982)
@@ -338,6 +343,7 @@
 - The Way Back (2020)
 - The Whale (2022)
 - The Wild Robot (2024)
+- The Wolverine (2013)
 - The Woman in Cabin 10 (2025)
 - Then She Found Me (2007)
 - Thor (2011)
@@ -363,6 +369,7 @@
 - Wolf Man (2025)
 - Woman of the Hour (2024)
 - X-Men (2000)
+- X-Men Origins: Wolverine (2009)
 - X2 (2003)
 - You Don't Know Jack (2010)
 - You Gotta Believe (2024)
@@ -413,6 +420,18 @@
 
 ### Band of Brothers (2001)
 
+**Season 1**
+- S01E01 Currahee
+- S01E02 Day of Days
+- S01E03 Carentan
+- S01E04 Replacements
+- S01E05 Crossroads
+- S01E06 Bastogne
+- S01E07 The Breaking Point
+- S01E08 The Last Patrol
+- S01E09 Why We Fight
+- S01E10 Points
+
 
 ### Barry (2018)
 
@@ -456,8 +475,106 @@
 - S01E12 Kobol's Last Gleaming (1)
 - S01E13 Kobol's Last Gleaming (2)
 
+**Season 2**
+- S02E01 Scattered
+- S02E02 Valley of Darkness
+- S02E03 Fragged
+- S02E04 Resistance
+- S02E05 The Farm
+- S02E06 Home (1)
+- S02E07 Home (2)
+- S02E08 Final Cut
+- S02E09 Flight of the Phoenix
+- S02E10 Pegasus
+- S02E11 Resurrection Ship (1)
+- S02E12 Resurrection Ship (2)
+- S02E13 Epiphanies
+- S02E14 Black Market
+- S02E15 Scar
+- S02E16 Sacrifice
+- S02E17 The Captain's Hand
+- S02E18 Downloaded
+- S02E19 Lay Down Your Burdens (1)
+- S02E20 Lay Down Your Burdens (2)
+
+**Season 3**
+- S03E01 Occupation
+- S03E02 Precipice
+- S03E03 Exodus (1)
+- S03E04 Exodus (2)
+- S03E05 Collaborators
+- S03E06 Torn
+- S03E08 Hero
+- S03E09 Unfinished Business
+- S03E10 The Passage
+- S03E11 The Eye of Jupiter
+- S03E12 Rapture
+- S03E13 Taking a Break from All Your Worries
+- S03E14 The Woman King
+- S03E15 A Day in the Life
+- S03E16 Dirty Hands
+- S03E19 Crossroads (1)
+- S03E20 Crossroads (2)
+
+**Season 4**
+- S04E01 He That Believeth in Me
+- S04E02 Six of One
+- S04E03 The Ties That Bind
+- S04E04 Escape Velocity
+- S04E05 The Road Less Traveled
+- S04E06 Faith
+- S04E07 Guess What's Coming to Dinner?
+- S04E08 Sine Qua Non
+- S04E09 The Hub
+- S04E10 Revelations
+- S04E11 Sometimes a Great Notion
+- S04E12 A Disquiet Follows My Soul
+- S04E13 The Oath
+- S04E14 Blood on the Scales
+- S04E15 No Exit
+- S04E16 Deadlock
+- S04E17 Someone to Watch Over Me
+- S04E18 Islanded in a Stream of Stars
+- S04E19 Daybreak (1)
+- S04E20 Daybreak (2)
+
 
 ### Better Call Saul (2015)
+
+**Season 1**
+- S01E01 Uno
+- S01E10 Marco
+
+**Season 3**
+- S03E01 Mabel
+- S03E02 Witness
+- S03E03 Sunk Costs
+- S03E04 Sabrosito
+- S03E05 Chicanery
+- S03E06 Off Brand
+- S03E07 Expenses
+- S03E08 Slip
+- S03E09 Fall
+- S03E10 Lantern
+
+**Season 4**
+- S04E01 Smoke
+- S04E02 Breathe
+- S04E03 Something Beautiful
+- S04E04 Talk
+- S04E05 Quite a Ride
+- S04E06 Piñata
+- S04E07 Something Stupid
+- S04E08 Coushatta
+- S04E09 Wiedersehen
+- S04E10 Winner
+
+**Season 5**
+- S05E01 Magic Man
+- S05E02 50% Off
+- S05E03 The Guy for This
+- S05E04 Namaste
+- S05E05 Dedicado a Max
 
 
 ### Blade Runner 2099 (2026)
@@ -498,6 +615,54 @@
 
 
 ### Curb Your Enthusiasm (2000)
+
+**Season 1**
+- S01E01 The Pants Tent
+- S01E02 Ted and Mary
+- S01E03 Porno Gil
+- S01E04 The Bracelet
+- S01E05 Interior Decorator
+- S01E06 The Wire
+- S01E07 AAMCO
+- S01E08 Beloved Aunt
+- S01E09 Affirmative Action
+- S01E10 The Group
+
+**Season 3**
+- S03E01 Chet's Shirt
+- S03E02 The Benadryl Brownie
+- S03E03 Club Soda and Salt
+- S03E04 The Nanny from Hell
+- S03E05 The Terrorist Attack
+- S03E06 The Special Section
+- S03E07 The Corpse-Sniffing Dog
+- S03E08 Krazee-Eyez Killa
+- S03E09 Mary, Joseph and Larry
+- S03E10 The Grand Opening
+
+**Season 5**
+- S05E01 The Larry David Sandwich
+- S05E02 The Bowtie
+- S05E03 The Christ Nail
+- S05E04 Kamikaze Bingo
+- S05E05 Lewis Needs a Kidney
+- S05E06 The Smoking Jacket
+- S05E07 The Seder
+- S05E08 The Ski Lift
+- S05E09 The Korean Bookie
+- S05E10 The End
+
+**Season 6**
+- S06E01 Meet the Blacks
+- S06E02 The Anonymous Donor
+- S06E03 The Ida Funkhouser Roadside Memorial
+- S06E04 The Lefty Call
+- S06E05 The Freak Book
+- S06E06 The Rat Dog
+- S06E07 The TiVo Guy
+- S06E08 The N Word
+- S06E09 The Therapists
+- S06E10 The Bat Mitzvah
 
 
 ### Dark Matter (2024)
@@ -762,6 +927,63 @@
 
 
 ### Mad Men (2007)
+
+**Season 1**
+- S01E01 Smoke Gets in Your Eyes
+- S01E02 Ladies Room
+- S01E03 Marriage of Figaro
+- S01E04 New Amsterdam
+- S01E05 5G
+- S01E06 Babylon
+- S01E07 Red in the Face
+- S01E08 The Hobo Code
+- S01E09 Shoot
+- S01E10 Long Weekend
+- S01E11 Indian Summer
+- S01E12 Nixon vs. Kennedy
+- S01E13 The Wheel
+
+**Season 2**
+- S02E01 For Those Who Think Young
+- S02E02 Flight 1
+- S02E03 The Benefactor
+- S02E04 Three Sundays
+- S02E05 The New Girl
+- S02E06 Maidenform
+- S02E07 The Gold Violin
+- S02E08 A Night to Remember
+- S02E09 Six Month Leave
+- S02E10 The Inheritance
+- S02E11 The Jet Set
+- S02E12 The Mountain King
+- S02E13 Meditations in an Emergency
+
+**Season 3**
+- S03E01 Out of Town
+- S03E02 Love Among the Ruins
+- S03E03 My Old Kentucky Home
+- S03E04 The Arrangements
+- S03E05 The Fog
+- S03E06 Guy Walks Into an Advertising Agency
+- S03E07 Seven Twenty Three
+- S03E08 Souvenir
+- S03E09 Wee Small Hours
+- S03E10 The Color Blue
+- S03E11 The Gypsy and the Hobo
+- S03E12 The Grown-Ups
+- S03E13 Shut the Door. Have a Seat
+
+**Season 4**
+- S04E01 Public Relations
+- S04E02 Christmas Comes But Once a Year
+- S04E03 The Good News
+- S04E04 The Rejected
+- S04E05 The Chrysanthemum and the Sword
+- S04E06 Waldorf Stories
+- S04E07 The Suitcase
+- S04E09 The Beautiful Girls
+- S04E10 Hands and Knees
+- S04E11 Chinese Wall
 
 
 ### Match of the Day (1964)
@@ -1382,12 +1604,16 @@
 - S01E07 The Andorian Incident
 - S01E08 Breaking the Ice
 - S01E09 Civilization
+- S01E11 Cold Front
 - S01E12 Silent Enemy
 - S01E13 Dear Doctor
 - S01E16 Shuttlepod One
 - S01E18 Rogue Planet
 - S01E19 Acquisition
+- S01E20 Oasis
+- S01E21 Detained
 - S01E22 Vox Sola
+- S01E24 Desert Crossing
 - S01E25 Two Days and Two Nights
 
 **Season 2**
@@ -1396,6 +1622,7 @@
 - S02E05 A Night in Sickbay
 - S02E07 The Seventh
 - S02E09 Singularity
+- S02E17 Canamar
 - S02E19 Judgment
 - S02E25 Bounty
 
@@ -1525,8 +1752,69 @@
 
 ### Stranger Things (2016)
 
+**Season 1**
+- S01E02 Chapter Two: The Weirdo on Maple Street
+- S01E03 Chapter Three: Holly, Jolly
+- S01E04 Chapter Four: The Body
+- S01E05 Chapter Five: The Flea and the Acrobat
+- S01E06 Chapter Six: The Monster
+- S01E07 Chapter Seven: The Bathtub
+- S01E08 Chapter Eight: The Upside Down
+
+**Season 2**
+- S02E01 Chapter One: MADMAX
+- S02E02 Chapter Two: Trick or Treat, Freak
+- S02E04 Chapter Four: Will the Wise
+- S02E05 Chapter Five: Dig Dug
+- S02E08 Chapter Eight: The Mind Flayer
+- S02E09 Chapter Nine: The Gate
+
+**Season 3**
+- S03E01 Chapter One: Suzie, Do You Copy?
+- S03E02 Chapter Two: The Mall Rats
+- S03E03 Chapter Three: The Case of the Missing Lifeguard
+- S03E04 Chapter Four: The Sauna Test
+- S03E05 Chapter Five: The Flayed
+- S03E06 Chapter Six: E Pluribus Unum
+- S03E07 Chapter Seven: The Bite
+- S03E08 Chapter Eight: The Battle of Starcourt
+
+**Season 4**
+- S04E01 Chapter One: The Hellfire Club
+- S04E02 Chapter Two: Vecna's Curse
+- S04E03 Chapter Three: The Monster and the Superhero
+- S04E04 Chapter Four: Dear Billy
+- S04E05 Chapter Five: The Nina Project
+- S04E06 Chapter Six: The Dive
+- S04E07 Chapter Seven: The Massacre at Hawkins Lab
+- S04E08 Chapter Eight: Papa
+- S04E09 Chapter Nine: The Piggyback
+
 
 ### Succession (2018)
+
+**Season 1**
+- S01E01 Celebration
+- S01E02 Sh*t Show at the F**k Factory
+- S01E03 Lifeboats
+- S01E04 Sad Sack Wasp Trap
+- S01E05 I Went to Market
+
+**Season 2**
+- S02E05 Tern Haven
+- S02E06 Argestes
+- S02E08 Dundee
+- S02E09 DC
+- S02E10 This Is Not for Tears
+
+**Season 3**
+- S03E01 Secession
+- S03E02 Mass in Time of War
+- S03E03 The Disruption
+- S03E04 Lion in the Meadow
+- S03E06 What It Takes
+- S03E08 Chiantishire
+- S03E09 All the Bells Say
 
 
 ### The Bear (2022)
@@ -1952,6 +2240,6 @@
 ---
 
 **Summary:**
-- Movies: 364
+- Movies: 371
 - TV Shows: 86
-- Episodes: 1102
+- Episodes: 1337
