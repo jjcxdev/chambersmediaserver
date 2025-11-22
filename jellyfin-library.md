@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-21 02:00:07 EST*
+*Last updated: 2025-11-22 02:00:05 EST*
 
 ## Movies
 
@@ -73,6 +73,7 @@
 - Crocodile Dundee (1986)
 - Crocodile Dundee II (1988)
 - Crocodile Dundee in Los Angeles (2001)
+- Dark Phoenix (2019)
 - Deadpool & Wolverine (2024)
 - Deadpool (2016)
 - Deadpool 2 (2018)
@@ -241,6 +242,7 @@
 - Sonic the Hedgehog (2020)
 - Sonic the Hedgehog 2 (2022)
 - Sonic the Hedgehog 3 (2024)
+- Spaceballs (1987)
 - Speak No Evil (2024)
 - Spider-Man: Far From Home (2019)
 - Spider-Man: Homecoming (2017)
@@ -370,6 +372,9 @@
 - Woman of the Hour (2024)
 - X-Men (2000)
 - X-Men Origins: Wolverine (2009)
+- X-Men: Apocalypse (2016)
+- X-Men: Days of Future Past (2014)
+- X-Men: First Class (2011)
 - X2 (2003)
 - You Don't Know Jack (2010)
 - You Gotta Believe (2024)
@@ -543,6 +548,14 @@
 
 **Season 1**
 - S01E01 Uno
+- S01E02 Mijo
+- S01E03 Nacho
+- S01E04 Hero
+- S01E05 Alpine Shepherd Boy
+- S01E06 Five-O
+- S01E07 Bingo
+- S01E08 RICO
+- S01E09 Pimento
 - S01E10 Marco
 
 **Season 3**
@@ -723,15 +736,27 @@
 - S03E08 Chapter 21
 
 **Season 4**
+- S04E01 Chapter 22
 - S04E02 Chapter 23
 - S04E03 Chapter 24
 - S04E04 Chapter 25
+- S04E05 Chapter 26
 - S04E06 Chapter 27
 - S04E07 Chapter 28
 - S04E08 Chapter 29
 
 
 ### Fallout (2024)
+
+**Season 1**
+- S01E01 The End
+- S01E02 The Target
+- S01E03 The Head
+- S01E04 The Ghouls
+- S01E05 The Past
+- S01E06 The Trap
+- S01E07 The Radio
+- S01E08 The Beginning
 
 
 ### Fire Country (2022)
@@ -981,9 +1006,12 @@
 - S04E05 The Chrysanthemum and the Sword
 - S04E06 Waldorf Stories
 - S04E07 The Suitcase
+- S04E08 The Summer Man
 - S04E09 The Beautiful Girls
 - S04E10 Hands and Knees
 - S04E11 Chinese Wall
+- S04E12 Blowing Smoke
+- S04E13 Tomorrowland
 
 
 ### Match of the Day (1964)
@@ -1190,6 +1218,7 @@
 - S01E01 A Whole New Whirled
 - S01E02 Best Friends, For Never
 - S01E03 Better Goff Dead
+- S01E04 The Choad Less Traveled
 - S01E05 Monkey Dory
 - S01E06 Murn After Reading
 - S01E07 Stop Dragon My Heart Around
@@ -1314,6 +1343,7 @@
 - S03E20 The Good Samaritan
 - S03E21 The Letter
 - S03E22 The Parking Space
+- S03E23 The Keys
 
 **Season 4**
 - S04E01 The Trip (1)
@@ -1338,6 +1368,7 @@
 - S04E20 The Junior Mint
 - S04E21 The Smelly Car
 - S04E22 The Handicap Spot
+- S04E23 The Pilot (1) / The Pilot (2)
 
 **Season 5**
 - S05E01 The Mango
@@ -1361,6 +1392,7 @@
 - S05E19 The Raincoats (2)
 - S05E20 The Fire
 - S05E21 The Hamptons
+- S05E22 The Opposite
 
 **Season 6**
 - S06E01 The Chaperone
@@ -1386,6 +1418,7 @@
 - S06E21 The Fusilli Jerry
 - S06E22 The Diplomat's Club
 - S06E23 The Face Painter
+- S06E24 The Understudy
 
 **Season 7**
 - S07E01 The Engagement
@@ -1410,6 +1443,8 @@
 - S07E20 The Calzone
 - S07E21 The Bottle Deposit (1)
 - S07E22 The Bottle Deposit (2)
+- S07E23 The Wait Out
+- S07E24 The Invitations
 
 **Season 8**
 - S08E01 The Foundation
@@ -1950,6 +1985,7 @@
 
 **Season 2**
 - S02E01 Future Days
+- S02E02 Through the Valley
 - S02E03 The Path
 - S02E04 Day One
 - S02E05 Feel Her Love
@@ -2091,6 +2127,7 @@
 - S01E06 12:00 P.M.
 - S01E07 1:00 P.M.
 - S01E08 2:00 P.M.
+- S01E09 3:00 P.M.
 - S01E10 4:00 P.M.
 - S01E11 5:00 P.M.
 - S01E12 6:00 P.M.
@@ -2149,6 +2186,7 @@
 
 **Season 1**
 - S01E01 The Initiative
+- S01E02 Windows of Opportunity
 - S01E03 Sales Contest
 - S01E04 The Rumor Mill
 - S01E05 Bikini Car Wash
@@ -2240,6 +2278,6 @@
 ---
 
 **Summary:**
-- Movies: 371
+- Movies: 376
 - TV Shows: 86
-- Episodes: 1337
+- Episodes: 1368
