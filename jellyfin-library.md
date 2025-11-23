@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-22 02:00:05 EST*
+*Last updated: 2025-11-23 02:00:05 EST*
 
 ## Movies
 
@@ -93,6 +93,7 @@
 - Expend4bles (2023)
 - F1 (2025)
 - Falling Down (1993)
+- Fantastic Four (2015)
 - Fear and Loathing in Las Vegas (1998)
 - Fight Club (1999)
 - First Blood (1982)
@@ -154,6 +155,7 @@
 - Justice League: War (2014)
 - KPop Demon Hunters (2025)
 - Karate Kid: Legends (2025)
+- Kenny Dalglish (2025)
 - Labyrinth (1986)
 - Late Night with the Devil (2024)
 - Lavalantula (2015)
@@ -558,6 +560,18 @@
 - S01E09 Pimento
 - S01E10 Marco
 
+**Season 2**
+- S02E01 Switch
+- S02E02 Cobbler
+- S02E03 Amarillo
+- S02E04 Gloves Off
+- S02E05 Rebecca
+- S02E06 Bali Ha'i
+- S02E07 Inflatable
+- S02E08 Fifi
+- S02E09 Nailed
+- S02E10 Klick
+
 **Season 3**
 - S03E01 Mabel
 - S03E02 Witness
@@ -804,6 +818,7 @@
 - S04E03 The Tiny Ways We Start to Heal
 - S04E04 Like a Wounded Wildebeest
 - S04E05 Happy First Day, Manny
+- S04E06 Your Voice in My Head
 
 
 ### Good American Family (2024)
@@ -933,6 +948,7 @@
 
 **Season 2**
 - S02E01 Death and a Sunset
+- S02E02 Sins of the Father
 
 
 ### Lockerbie: A Search for Truth (2025)
@@ -1012,6 +1028,21 @@
 - S04E11 Chinese Wall
 - S04E12 Blowing Smoke
 - S04E13 Tomorrowland
+
+**Season 5**
+- S05E01 A Little Kiss (1)
+- S05E02 A Little Kiss (2)
+- S05E03 Tea Leaves
+- S05E04 Mystery Date
+- S05E05 Signal 30
+- S05E06 Far Away Places
+- S05E07 At the Codfish Ball
+- S05E08 Lady Lazarus
+- S05E09 Dark Shadows
+- S05E10 Christmas Waltz
+- S05E11 The Other Woman
+- S05E12 Commissions and Fees
+- S05E13 The Phantom
 
 
 ### Match of the Day (1964)
@@ -2278,6 +2309,6 @@
 ---
 
 **Summary:**
-- Movies: 376
+- Movies: 378
 - TV Shows: 86
-- Episodes: 1368
+- Episodes: 1393
