@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-23 02:00:05 EST*
+*Last updated: 2025-11-24 02:00:06 EST*
 
 ## Movies
 
@@ -105,7 +105,6 @@
 - Full Metal Jacket (1987)
 - Gattaca (1997)
 - Gladiator (2000)
-- Gladiator II (2024)
 - Glengarry Glen Ross (1992)
 - Gremlins (1984)
 - Gremlins 2: The New Batch (1990)
@@ -377,6 +376,7 @@
 - X-Men: Apocalypse (2016)
 - X-Men: Days of Future Past (2014)
 - X-Men: First Class (2011)
+- X-Men: The Last Stand (2006)
 - X2 (2003)
 - You Don't Know Jack (2010)
 - You Gotta Believe (2024)
@@ -602,6 +602,26 @@
 - S05E03 The Guy for This
 - S05E04 Namaste
 - S05E05 Dedicado a Max
+- S05E06 Wexler v. Goodman
+- S05E07 JMM
+- S05E08 Bagman
+- S05E09 Bad Choice Road
+- S05E10 Something Unforgivable
+
+**Season 6**
+- S06E01 Wine and Roses
+- S06E02 Carrot and Stick
+- S06E03 Rock and Hard Place
+- S06E04 Hit and Run
+- S06E05 Black and Blue
+- S06E06 Axe and Grind
+- S06E07 Plan and Execution
+- S06E08 Point and Shoot
+- S06E09 Fun and Games
+- S06E10 Nippy
+- S06E11 Breaking Bad
+- S06E12 Waterworks
+- S06E13 Saul Gone
 
 
 ### Blade Runner 2099 (2026)
@@ -1044,10 +1064,43 @@
 - S05E12 Commissions and Fees
 - S05E13 The Phantom
 
+**Season 6**
+- S06E01 The Doorway (1)
+- S06E02 The Doorway (2)
+- S06E03 Collaborators
+- S06E04 To Have and to Hold
+- S06E05 The Flood
+- S06E06 For Immediate Release
+- S06E07 Man With a Plan
+- S06E08 The Crash
+- S06E09 The Better Half
+- S06E10 A Tale of Two Cities
+- S06E11 Favors
+- S06E12 The Quality of Mercy
+- S06E13 In Care Of
+
+**Season 7**
+- S07E01 Time Zones
+- S07E02 A Day's Work
+- S07E03 Field Trip
+- S07E04 The Monolith
+- S07E05 The Runaways
+- S07E06 The Strategy
+- S07E07 Waterloo
+- S07E08 Severance
+- S07E09 New Business
+- S07E10 The Forecast
+- S07E11 Time & Life
+- S07E12 Lost Horizon
+- S07E13 The Milk and Honey Route
+- S07E14 Person to Person
+
 
 ### Match of the Day (1964)
 
 **Season 2025**
+- S2025E00 Match of the Day
+- S2025E00 Match of the Day
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
 - S2025E00 Match of the Day
@@ -1086,6 +1139,12 @@
 
 
 ### Murderbot (2025)
+
+
+### PL HL 2526 Bmouth v West Ham (Unknown)
+
+**Season Unknown**
+- S00E2526 PL HL 2526 Bmouth v West Ham_20251123_20502055
 
 
 ### Paradise (2025)
@@ -1819,6 +1878,7 @@
 ### Stranger Things (2016)
 
 **Season 1**
+- S01E01 Chapter One: The Vanishing of Will Byers
 - S01E02 Chapter Two: The Weirdo on Maple Street
 - S01E03 Chapter Three: Holly, Jolly
 - S01E04 Chapter Four: The Body
@@ -1830,8 +1890,11 @@
 **Season 2**
 - S02E01 Chapter One: MADMAX
 - S02E02 Chapter Two: Trick or Treat, Freak
+- S02E03 Chapter Three: The Pollywog
 - S02E04 Chapter Four: Will the Wise
 - S02E05 Chapter Five: Dig Dug
+- S02E06 Chapter Six: The Spy
+- S02E07 Chapter Seven: The Lost Sister
 - S02E08 Chapter Eight: The Mind Flayer
 - S02E09 Chapter Nine: The Gate
 
@@ -1910,6 +1973,7 @@
 - S01E04 Bahld Harmon birthplace (disputed)
 - S01E05 I won. Zoom in.
 - S01E06 Happy Birthday, A Friend.
+- S01E07 I said to my dog, "How do you like my hippie shirt?"
 
 
 ### The Expanse (2015)
@@ -2310,5 +2374,5 @@
 
 **Summary:**
 - Movies: 378
-- TV Shows: 86
-- Episodes: 1393
+- TV Shows: 87
+- Episodes: 1447
