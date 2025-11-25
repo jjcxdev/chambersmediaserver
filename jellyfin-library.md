@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-24 02:00:06 EST*
+*Last updated: 2025-11-25 02:00:04 EST*
 
 ## Movies
 
@@ -100,11 +100,13 @@
 - For a Few Dollars More (1965)
 - Forrest Gump (1994)
 - Frankenstein (2025)
+- French Ligue 2 Soccer : Stade de Reims vs. Montpellier HSC (2025)
 - Friday the 13th (1980)
 - Friendship (2025)
 - Full Metal Jacket (1987)
 - Gattaca (1997)
 - Gladiator (2000)
+- Gladiator II (2024)
 - Glengarry Glen Ross (1992)
 - Gremlins (1984)
 - Gremlins 2: The New Batch (1990)
@@ -245,6 +247,9 @@
 - Sonic the Hedgehog 3 (2024)
 - Spaceballs (1987)
 - Speak No Evil (2024)
+- Spider-Man (2002)
+- Spider-Man 2 (2004)
+- Spider-Man 3 (2007)
 - Spider-Man: Far From Home (2019)
 - Spider-Man: Homecoming (2017)
 - Spider-Man: No Way Home (2021)
@@ -287,6 +292,8 @@
 - The Accountant (2016)
 - The Accountant² (2025)
 - The Amateur (2025)
+- The Amazing Spider-Man (2012) (1930)
+- The Amazing Spider-Man 2 (2014)
 - The Assassination of Jesse James by the Coward Robert Ford (2007)
 - The Avengers (2012)
 - The Blob (1988)
@@ -336,6 +343,7 @@
 - The Rules of Attraction (2002)
 - The Running Man (1987)
 - The Smashing Machine (2025)
+- The Social Network (2010)
 - The Substance (2024)
 - The Sum of All Fears (2002)
 - The Terminator (1984)
@@ -1139,12 +1147,6 @@
 
 
 ### Murderbot (2025)
-
-
-### PL HL 2526 Bmouth v West Ham (Unknown)
-
-**Season Unknown**
-- S00E2526 PL HL 2526 Bmouth v West Ham_20251123_20502055
 
 
 ### Paradise (2025)
@@ -1963,6 +1965,46 @@
 
 ### The Boys (2019)
 
+**Season 1**
+- S01E01 The Name of the Game
+- S01E02 Cherry
+- S01E03 Get Some
+- S01E04 The Female of the Species
+- S01E05 Good for the Soul
+- S01E06 The Innocents
+- S01E07 The Self-Preservation Society
+- S01E08 You Found Me
+
+**Season 2**
+- S02E01 The Big Ride
+- S02E02 Proper Preparation and Planning
+- S02E03 Over the Hill with the Swords of a Thousand Men
+- S02E04 Nothing Like It in the World
+- S02E05 We Gotta Go Now
+- S02E06 The Bloody Doors Off
+- S02E07 Butcher, Baker, Candlestick Maker
+- S02E08 What I Know
+
+**Season 3**
+- S03E01 Payback
+- S03E02 The Only Man in the Sky
+- S03E03 Barbary Coast
+- S03E04 Glorious Five Year Plan
+- S03E05 The Last Time to Look on This World of Lies
+- S03E06 Herogasm
+- S03E07 Here Comes a Candle to Light You to Bed
+- S03E08 The Instant White-Hot Wild
+
+**Season 4**
+- S04E01 Department of Dirty Tricks
+- S04E02 Life Among the Septics
+- S04E03 We'll Keep the Red Flag Flying Here
+- S04E04 Wisdom of the Ages
+- S04E05 Beware the Jabberwock, My Son
+- S04E06 Dirty Business
+- S04E07 The Insider
+- S04E08 Season Four Finale
+
 
 ### The Chair Company (2025)
 
@@ -2304,6 +2346,25 @@
 
 ### True Detective (2014)
 
+**Season 1**
+- S01E02 Seeing Things
+- S01E03 The Locked Room
+- S01E04 Who Goes There?
+- S01E05 The Secret Fate of All Life
+- S01E06 Haunted Houses
+- S01E07 After You've Gone
+- S01E08 Form and Void
+
+**Season 2**
+- S02E01 The Western Book of the Dead
+- S02E02 Night Finds You
+- S02E03 Maybe Tomorrow
+- S02E04 Down Will Come
+- S02E05 Other Lives
+- S02E06 Church in Ruins
+- S02E07 Black Maps and Motel Rooms
+- S02E08 Omega Station
+
 
 ### Twisted Metal (2023)
 
@@ -2373,6 +2434,6 @@
 ---
 
 **Summary:**
-- Movies: 378
-- TV Shows: 87
-- Episodes: 1447
+- Movies: 386
+- TV Shows: 86
+- Episodes: 1493
