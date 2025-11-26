@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-25 02:00:04 EST*
+*Last updated: 2025-11-26 02:00:07 EST*
 
 ## Movies
 
@@ -100,7 +100,6 @@
 - For a Few Dollars More (1965)
 - Forrest Gump (1994)
 - Frankenstein (2025)
-- French Ligue 2 Soccer : Stade de Reims vs. Montpellier HSC (2025)
 - Friday the 13th (1980)
 - Friendship (2025)
 - Full Metal Jacket (1987)
@@ -292,7 +291,7 @@
 - The Accountant (2016)
 - The Accountant² (2025)
 - The Amateur (2025)
-- The Amazing Spider-Man (2012) (1930)
+- The Amazing Spider-Man (2012) (2012)
 - The Amazing Spider-Man 2 (2014)
 - The Assassination of Jesse James by the Coward Robert Ford (2007)
 - The Avengers (2012)
@@ -448,9 +447,6 @@
 - S01E10 Points
 
 
-### Barry (2018)
-
-
 ### Battlestar Galactica (1978)
 
 **Season 1**
@@ -519,6 +515,7 @@
 - S03E04 Exodus (2)
 - S03E05 Collaborators
 - S03E06 Torn
+- S03E07 A Measure of Salvation
 - S03E08 Hero
 - S03E09 Unfinished Business
 - S03E10 The Passage
@@ -528,6 +525,7 @@
 - S03E14 The Woman King
 - S03E15 A Day in the Life
 - S03E16 Dirty Hands
+- S03E18 The Son Also Rises
 - S03E19 Crossroads (1)
 - S03E20 Crossroads (2)
 
@@ -658,17 +656,6 @@
 - S03E08 Into the Light
 
 
-### Cassandra (2024)
-
-**Season 1**
-- S01E01 A Fresh Start
-- S01E02 Who Am I
-- S01E03 Endgame
-- S01E04 A Children's Game
-- S01E05 You Are Not Alone
-- S01E06 Merry Christmas
-
-
 ### Curb Your Enthusiasm (2000)
 
 **Season 1**
@@ -746,6 +733,14 @@
 
 
 ### Dune: Prophecy (2024)
+
+**Season 1**
+- S01E01 The Hidden Hand
+- S01E02 Two Wolves
+- S01E03 Sisterhood Above All
+- S01E04 Twice Born
+- S01E05 In Blood, Truth
+- S01E06 The High-Handed Enemy
 
 
 ### Eastbound & Down (2009)
@@ -979,16 +974,6 @@
 - S02E02 Sins of the Father
 
 
-### Lockerbie: A Search for Truth (2025)
-
-**Season 1**
-- S01E01 Episode 1
-- S01E02 Episode 2
-- S01E03 Episode 3
-- S01E04 Episode 4
-- S01E05 Episode 5
-
-
 ### Lost (2004)
 
 
@@ -1104,29 +1089,6 @@
 - S07E14 Person to Person
 
 
-### Match of the Day (1964)
-
-**Season 2025**
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-- S2025E00 Match of the Day
-
-
 ### Mid Morning Matters with Alan Partridge (2010)
 
 
@@ -1147,6 +1109,9 @@
 
 
 ### Murderbot (2025)
+
+
+### Neuromancer (Unknown)
 
 
 ### Paradise (2025)
@@ -1339,9 +1304,6 @@
 - S01E04 Revenge and Remorse (The Guilty Alibi)
 - S01E05 Rendezvous at Big Gulch (Terror in the Neighborhood)
 - S01E06 Testimony of Evil (Dead Men Don't Laugh)
-
-
-### Premier League (1992)
 
 
 ### Rick and Morty (2013)
@@ -1874,9 +1836,6 @@
 - S03E22 The Savage Curtain
 
 
-### Star Wars: Andor (2022)
-
-
 ### Stranger Things (2016)
 
 **Season 1**
@@ -2312,8 +2271,31 @@
 
 ### The Wire (2002)
 
+**Season 1**
+- S01E01 The Target
+- S01E02 The Detail
+- S01E03 The Buys
+- S01E04 Old Cases
+- S01E05 The Pager
+- S01E06 The Wire
+- S01E07 One Arrest
+- S01E08 Lessons
+- S01E09 Game Day
+- S01E10 The Cost
+- S01E11 The Hunt
+- S01E12 Cleaning Up
+- S01E13 Sentencing
+
 
 ### The Wonder Years (1988)
+
+**Season 1**
+- S01E01 Pilot
+- S01E02 Swingers
+- S01E03 My Father's Office
+- S01E04 Angel
+- S01E05 The Phone Call
+- S01E06 Dance With Me
 
 
 ### This Time with Alan Partridge (2019)
@@ -2347,6 +2329,7 @@
 ### True Detective (2014)
 
 **Season 1**
+- S01E01 The Long Bright Dark
 - S01E02 Seeing Things
 - S01E03 The Locked Room
 - S01E04 Who Goes There?
@@ -2364,6 +2347,24 @@
 - S02E06 Church in Ruins
 - S02E07 Black Maps and Motel Rooms
 - S02E08 Omega Station
+
+**Season 3**
+- S03E01 The Great War and Modern Memory
+- S03E02 Kiss Tomorrow Goodbye
+- S03E03 The Big Never
+- S03E04 The Hour and the Day
+- S03E05 If You Have Ghosts
+- S03E06 Hunters in the Dark
+- S03E07 The Final Country
+- S03E08 Now Am Found
+
+**Season 4**
+- S04E01 Night Country: Part 1
+- S04E02 Night Country: Part 2
+- S04E03 Night Country: Part 3
+- S04E04 Night Country: Part 4
+- S04E05 Night Country: Part 5
+- S04E06 Night Country: Part 6
 
 
 ### Twisted Metal (2023)
@@ -2434,6 +2435,6 @@
 ---
 
 **Summary:**
-- Movies: 386
-- TV Shows: 86
-- Episodes: 1493
+- Movies: 385
+- TV Shows: 81
+- Episodes: 1506
