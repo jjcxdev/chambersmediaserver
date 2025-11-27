@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-26 02:00:07 EST*
+*Last updated: 2025-11-27 02:00:06 EST*
 
 ## Movies
 
@@ -54,6 +54,7 @@
 - Boogie Nights (1997)
 - Borderlands (2024)
 - Bram Stoker's Dracula (1992)
+- Bugonia (2025)
 - Butch Cassidy and the Sundance Kid (1969)
 - Captain America: Brave New World (2025)
 - Captain America: Civil War (2016)
@@ -1268,6 +1269,18 @@
 
 ### Party Down (2009)
 
+**Season 1**
+- S01E01 Willow Canyon Homeowners Annual Party
+- S01E02 California College Conservative Union Caucus
+- S01E03 Pepper McMasters Singles Seminar
+- S01E04 Investors Dinner
+- S01E05 Sin Say Shun Awards After Party
+- S01E06 Taylor Stiltskin Sweet Sixteen Party
+- S01E07 Brandix Corporate Retreat
+- S01E08 Celebrate Ricky Sargulesh
+- S01E09 James Rolf High School Twentieth Reunion
+- S01E10 Stennheiser-Pong Wedding Reception
+
 
 ### Peacemaker (2022)
 
@@ -1880,6 +1893,12 @@
 - S04E08 Chapter Eight: Papa
 - S04E09 Chapter Nine: The Piggyback
 
+**Season 5**
+- S05E01 Chapter One: The Crawl
+- S05E02 Chapter Two: The Vanishing of ...
+- S05E03 Chapter Three: The Turnbow Trap
+- S05E04 Chapter Four: Sorcerer
+
 
 ### Succession (2018)
 
@@ -2286,6 +2305,17 @@
 - S01E12 Cleaning Up
 - S01E13 Sentencing
 
+**Season 2**
+- S02E01 Ebb Tide
+- S02E02 Collateral Damage
+- S02E03 Hot Shots
+- S02E04 Hard Cases
+- S02E05 Undertow
+- S02E06 All Prologue
+- S02E08 Duck and Cover
+- S02E09 Stray Rounds
+- S02E10 Storm Warnings
+
 
 ### The Wonder Years (1988)
 
@@ -2296,6 +2326,125 @@
 - S01E04 Angel
 - S01E05 The Phone Call
 - S01E06 Dance With Me
+
+**Season 2**
+- S02E01 Heart of Darkness
+- S02E02 Our Miss White
+- S02E03 Christmas
+- S02E04 Steady as She Goes
+- S02E05 Just Between Me and You and Kirk and Paul and Carla and Becky
+- S02E06 Pottery Will Get You Nowhere
+- S02E07 Coda
+- S02E08 Hiroshima, Mon Frere
+- S02E09 Loosiers
+- S02E10 Walk Out
+- S02E11 Nemesis
+- S02E12 Fate
+- S02E13 Birthday Boy
+- S02E14 Brightwing
+- S02E15 Square Dance
+- S02E16 Whose Woods Are These?
+- S02E17 How I'm Spending My Summer Vacation
+
+**Season 3**
+- S03E01 Summer Song
+- S03E02 Math Class
+- S03E03 Wayne on Wheels
+- S03E04 Mom Wars
+- S03E05 On the Spot
+- S03E06 Odd Man Out
+- S03E07 The Family Car
+- S03E08 The Pimple
+- S03E09 Math Class Squared
+- S03E10 Rock 'n Roll
+- S03E11 Don't You Know Anything About Women?
+- S03E12 The Powers That Be
+- S03E13 She, My Friend and I
+- S03E14 The St. Valentine's Day Massacre
+- S03E15 The Tree House
+- S03E16 The Glee Club
+- S03E17 Night Out
+- S03E18 Faith
+- S03E19 The Unnatural
+- S03E20 Goodbye
+- S03E21 Cocoa and Sympathy
+- S03E22 Daddy's Little Girl
+- S03E23 Moving
+
+**Season 4**
+- S04E01 Growing Up
+- S04E02 Ninth Grade Man
+- S04E03 The Journey
+- S04E04 The Cost of Living
+- S04E05 It's a Mad, Mad, Madeline World
+- S04E06 Little Debbie
+- S04E07 The Ties That Bind
+- S04E08 The Sixth Man
+- S04E09 A Very Cutlip Christmas
+- S04E10 The Candidate
+- S04E11 Heartbreak
+- S04E12 Denial
+- S04E13 Who's Aunt Rose?
+- S04E14 Courage
+- S04E15 Buster
+- S04E16 Road Trip
+- S04E17 When Worlds Collide
+- S04E18 Separate Rooms
+- S04E19 The Yearbook
+- S04E20 The Accident
+- S04E21 The House That Jack Built
+- S04E22 Graduation
+- S04E23 The Wonder Years
+
+**Season 5**
+- S05E01 The Lake
+- S05E02 Day One
+- S05E03 The Hardware Store
+- S05E04 Frank and Denise
+- S05E05 Full Moon Rising
+- S05E06 Triangle
+- S05E07 Soccer
+- S05E08 Dinner Out
+- S05E09 Christmas Party
+- S05E10 Pfeiffer's Choice
+- S05E11 Road Test
+- S05E12 Grandpa's Car
+- S05E13 Kodachrome
+- S05E14 Private Butthead
+- S05E15 Of Mastodons and Men
+- S05E16 Double Double Date
+- S05E17 Hero
+- S05E18 Lunch Stories
+- S05E19 Carnal Knowledge
+- S05E20 The Lost Weekend
+- S05E21 Stormy Weather
+- S05E22 The Wedding
+- S05E23 Back to the Lake
+- S05E24 Broken Hearts and Burgers
+
+**Season 6**
+- S06E01 Homecoming
+- S06E02 Fishing
+- S06E03 Scenes from a Wedding
+- S06E04 Sex and Economics
+- S06E05 Politics as Usual
+- S06E06 White Lies
+- S06E07 Wayne and Bonnie
+- S06E08 Kevin Delivers
+- S06E09 The Test
+- S06E10 Let Nothing You Dismay
+- S06E11 New Years
+- S06E12 Alice in Autoland
+- S06E13 Ladies and Gentlemen... The Rolling Stones
+- S06E14 Unpacking
+- S06E15 Hulk Arnold
+- S06E16 Nose
+- S06E17 Eclipse
+- S06E18 Poker
+- S06E19 The Little Women
+- S06E20 Reunion
+- S06E21 Summer
+- S06E22 Independence Day
 
 
 ### This Time with Alan Partridge (2019)
@@ -2435,6 +2584,6 @@
 ---
 
 **Summary:**
-- Movies: 385
+- Movies: 386
 - TV Shows: 81
-- Episodes: 1506
+- Episodes: 1638
