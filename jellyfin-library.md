@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-27 02:00:06 EST*
+*Last updated: 2025-11-28 02:00:07 EST*
 
 ## Movies
 
@@ -11,6 +11,7 @@
 - 28 Years Later (2025)
 - 65 (2023)
 - A Fistful of Dollars (1964)
+- A Good Day to Die Hard (2013)
 - A Nightmare on Elm Street (1984)
 - A Quiet Place: Day One (2024)
 - Air Force One (1997)
@@ -30,6 +31,7 @@
 - Any Given Sunday (1999)
 - Apocalypse Now (1979)
 - Argylle (2024)
+- Armageddon (1998)
 - Attack of the Killer Tomatoes! (1978)
 - Avengers: Age of Ultron (2015)
 - Avengers: Endgame (2019)
@@ -80,9 +82,13 @@
 - Deadpool 2 (2018)
 - Demolition Man (1993)
 - Dick Tracy (1990)
+- Die Hard (1988)
+- Die Hard 2 (1990)
+- Die Hard: With a Vengeance (1995)
 - Doctor Strange (2016)
 - Doctor Strange in the Multiverse of Madness (2022)
 - Dog Day Afternoon (1975)
+- Dogma (1999)
 - Dolittle (2020)
 - Donnie Brasco (1997)
 - Dune (2021)
@@ -162,6 +168,7 @@
 - Lavalantula (2015)
 - Legend (1985)
 - Lilo & Stitch (2025)
+- Live Free or Die Hard (2007)
 - Lock, Stock and Two Smoking Barrels (1998)
 - Logan (2017)
 - Lord of the Flies (1963)
@@ -320,6 +327,7 @@
 - The Hitchhiker's Guide to the Galaxy (2005)
 - The Hunt for Red October (1990)
 - The Incredible Hulk (2008)
+- The Informant! (2009)
 - The Karate Kid (1984)
 - The Karate Kid Part II (1986)
 - The Karate Kid Part III (1989)
@@ -409,15 +417,6 @@
 
 
 ### A Knight of the Seven Kingdoms (2025)
-
-
-### Adolescence (2025)
-
-**Season 1**
-- S01E01 Episode 1
-- S01E02 Episode 2
-- S01E03 Episode 3
-- S01E04 Episode 4
 
 
 ### Alien: Earth (2025)
@@ -526,6 +525,7 @@
 - S03E14 The Woman King
 - S03E15 A Day in the Life
 - S03E16 Dirty Hands
+- S03E17 Maelstrom
 - S03E18 The Son Also Rises
 - S03E19 Crossroads (1)
 - S03E20 Crossroads (2)
@@ -942,9 +942,6 @@
 - S03E06 WHEN I FIRST THOUGHT OF THIS YOU DIDN’T EVEN HAVE HANDS UP THERE — YOU WERE JUST WALKING STRAIGHT UP THE WALL.
 
 
-### I'm Alan Partridge (1997)
-
-
 ### It's Always Sunny in Philadelphia (2005)
 
 **Season 17**
@@ -976,9 +973,6 @@
 
 
 ### Lost (2004)
-
-
-### Love on the Spectrum (2022)
 
 
 ### Mad Men (2007)
@@ -1090,10 +1084,60 @@
 - S07E14 Person to Person
 
 
-### Mid Morning Matters with Alan Partridge (2010)
-
-
 ### Mr. Robot (2015)
+
+**Season 1**
+- S01E01 eps1.0_hellofriend.mov
+- S01E02 eps1.1_ones-and-zer0es.mpeg
+- S01E03 eps1.2_d3bug.mkv
+- S01E04 eps1.3_da3m0ns.mp4
+- S01E05 eps1.4_3xpl0its.wmv
+- S01E06 eps1.5_br4ve-trave1er.asf
+- S01E07 eps1.6_v1ew-s0urce.flv
+- S01E08 eps1.7_wh1ter0se.m4v
+- S01E09 eps1.8_m1rr0r1ng.qt
+- S01E10 eps1.9_zer0-day.avi
+
+**Season 2**
+- S02E01 eps2.0_unm4sk-pt1.tc
+- S02E02 eps2.0_unm4sk-pt2.tc
+- S02E03 eps2.1_k3rnel-pan1c.ksd
+- S02E04 eps2.2_init_1.asec
+- S02E05 eps2.3_logic-b0mb.hc
+- S02E06 eps2.4_m4ster-s1ave.aes
+- S02E07 eps2.5_h4ndshake.sme
+- S02E08 eps2.6_succ3ss0r.p12
+- S02E09 eps2.7_init_5.fve
+- S02E10 eps2.8_h1dden-pr0cess.axx
+- S02E11 eps2.9_pyth0n-pt1.p7z
+- S02E12 eps2.9_pyth0n-pt2.p7z
+
+**Season 3**
+- S03E01 eps3.0_power-saver-mode.h
+- S03E02 eps3.1_undo.gz
+- S03E03 eps3.2_legacy.so
+- S03E04 eps3.3_metadata.par2
+- S03E05 eps3.4_runtime-error.r00
+- S03E06 eps3.5_kill-process.inc
+- S03E07 eps3.6_fredrick+tanya.chk
+- S03E08 eps3.7_dont-delete-me.ko
+- S03E09 eps3.8_stage3.torrent
+- S03E10 shutdown -r
+
+**Season 4**
+- S04E01 401 Unauthorized
+- S04E02 402 Payment Required
+- S04E03 403 Forbidden
+- S04E04 404 Not Found
+- S04E05 405 Method Not Allowed
+- S04E06 406 Not Acceptable
+- S04E07 407 Proxy Authentication Required
+- S04E08 408 Request Timeout
+- S04E09 409 Conflict
+- S04E10 410 Gone
+- S04E11 eXit
+- S04E12 whoami
+- S04E13 Hello, Elliot
 
 
 ### Murdaugh: Death in the Family (2025)
@@ -1305,9 +1349,6 @@
 - S02E08 Full Nelson
 
 
-### Peep Show (2003)
-
-
 ### Police Squad! (1982)
 
 **Season 1**
@@ -1353,15 +1394,6 @@
 - S01E08 The Streak
 - S01E09 The Playoffs
 - S01E10 Game Seven
-
-
-### SCTV Channel (1983)
-
-
-### SCTV Network 90 (1981)
-
-
-### Second City Television (1976)
 
 
 ### Seinfeld (1989)
@@ -1591,6 +1623,20 @@
 
 ### Shoresy (2022)
 
+**Season 1**
+- S01E01 Never Lose Again
+- S01E02 Veteran Presence
+- S01E03 Know Your Role
+- S01E04 If You Can’t Win, Don’t Play
+- S01E05 Hockey Brings People Together
+- S01E06 Don’t Poke the Bear
+
+**Season 2**
+- S02E02 Skill vs. Will
+- S02E04 Players Only
+- S02E05 The Man Advantage
+- S02E06 Accountability
+
 **Season 4**
 - S04E01 Summer in Sudvegas
 - S04E02 Blueberry Buddies
@@ -1670,6 +1716,28 @@
 
 ### Silo (2023)
 
+**Season 1**
+- S01E01 Freedom Day
+- S01E02 Holston's Pick
+- S01E05 The Janitor's Boy
+- S01E06 The Relic
+- S01E07 The Flamekeepers
+- S01E08 Hanna
+- S01E09 The Getaway
+- S01E10 Outside
+
+**Season 2**
+- S02E01 The Engineer
+- S02E02 Order
+- S02E03 Solo
+- S02E04 The Harmonium
+- S02E05 Descent
+- S02E06 Barricades
+- S02E07 The Dive
+- S02E08 The Book of Quinn
+- S02E09 The Safeguard
+- S02E10 Into the Fire
+
 
 ### South Park (1997)
 
@@ -1684,17 +1752,7 @@
 - S28E01 Twisted Christian
 - S28E02 The Woman in the Hat
 - S28E03 Sora Not Sorry
-
-
-### Squid Game (2021)
-
-**Season 3**
-- S03E01 Keys and Knives
-- S03E02 The Starry Night
-- S03E03 It's Not Your Fault
-- S03E04 222
-- S03E05 ○△□
-- S03E06 Humans Are...
+- S28E04 Turkey Trot
 
 
 ### Star Trek: Enterprise (2001)
@@ -2253,6 +2311,48 @@
 
 ### The Sopranos (1999)
 
+**Season 2**
+- S02E01 Guy Walks into a Psychiatrist's Office
+- S02E02 Do Not Resuscitate
+- S02E03 Toodle-Fucking-Oo
+- S02E04 Commendatori
+- S02E05 Big Girls Don't Cry
+- S02E06 The Happy Wanderer
+- S02E07 D-Girl
+- S02E08 Full Leather Jacket
+- S02E09 From Where to Eternity
+- S02E10 Bust Out
+- S02E11 House Arrest
+- S02E12 The Knight in White Satin Armor
+- S02E13 Funhouse
+
+**Season 4**
+- S04E01 For All Debts Public and Private
+- S04E02 No-Show
+- S04E03 Christopher
+- S04E04 The Weight
+- S04E05 Pie-O-My
+- S04E06 Everybody Hurts
+- S04E07 Watching Too Much Television
+- S04E08 Mergers and Acquisitions
+- S04E09 Whoever Did This
+- S04E10 The Strong, Silent Type
+- S04E11 Calling All Cars
+- S04E12 Eloise
+- S04E13 Whitecaps
+
+**Season 6**
+- S06E01 Members Only
+- S06E02 Join the Club
+- S06E03 Mayham
+- S06E04 The Fleshy Part of the Thigh
+- S06E05 Mr. and Mrs. Sacramoni Request
+- S06E06 Live Free or Die
+- S06E07 Luxury Lounge
+- S06E08 Johnny Cakes
+- S06E09 The Ride
+- S06E10 Moe n' Joe
+
 
 ### The Wheel of Time (2021)
 
@@ -2312,9 +2412,53 @@
 - S02E04 Hard Cases
 - S02E05 Undertow
 - S02E06 All Prologue
+- S02E07 Backwash
 - S02E08 Duck and Cover
 - S02E09 Stray Rounds
 - S02E10 Storm Warnings
+- S02E11 Bad Dreams
+- S02E12 Port in a Storm
+
+**Season 3**
+- S03E01 Time After Time
+- S03E02 All Due Respect
+- S03E03 Dead Soldiers
+- S03E04 Amsterdam
+- S03E05 Straight and True
+- S03E06 Homecoming
+- S03E07 Back Burners
+- S03E08 Moral Midgetry
+- S03E09 Slapstick
+- S03E10 Reformation
+- S03E11 Middle Ground
+- S03E12 Mission Accomplished
+
+**Season 4**
+- S04E01 Boys of Summer
+- S04E02 Soft Eyes
+- S04E03 Home Rooms
+- S04E04 Refugees
+- S04E05 Alliances
+- S04E06 Margin of Error
+- S04E07 Unto Others
+- S04E08 Corner Boys
+- S04E09 Know Your Place
+- S04E10 Misgivings
+- S04E11 A New Day
+- S04E12 That's Got His Own
+- S04E13 Final Grades
+
+**Season 5**
+- S05E01 More with Less
+- S05E02 Unconfirmed Reports
+- S05E03 Not for Attribution
+- S05E04 Transitions
+- S05E05 React Quotes
+- S05E06 The Dickensian Aspect
+- S05E07 Took
+- S05E08 Clarifications
+- S05E09 Late Editions
+- S05E10 -30-
 
 
 ### The Wonder Years (1988)
@@ -2445,9 +2589,6 @@
 - S06E20 Reunion
 - S06E21 Summer
 - S06E22 Independence Day
-
-
-### This Time with Alan Partridge (2019)
 
 
 ### Tires (2024)
@@ -2584,6 +2725,6 @@
 ---
 
 **Summary:**
-- Movies: 386
-- TV Shows: 81
-- Episodes: 1638
+- Movies: 394
+- TV Shows: 71
+- Episodes: 1777
