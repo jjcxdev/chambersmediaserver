@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-28 02:00:07 EST*
+*Last updated: 2025-11-29 02:00:07 EST*
 
 ## Movies
 
@@ -966,6 +966,8 @@
 - S01E06 Beware the Second Beating
 - S01E07 All Roads Lead to a Hole
 - S01E08 Clumsy, This Life
+- S01E09 WolfCamp
+- S01E10 The Crumbs of Hope
 
 **Season 2**
 - S02E01 Death and a Sunset
@@ -1325,6 +1327,9 @@
 - S01E09 James Rolf High School Twentieth Reunion
 - S01E10 Stennheiser-Pong Wedding Reception
 
+**Season 3**
+- S03E06 Sepulveda Basin High School Spring Play Opening Night
+
 
 ### Peacemaker (2022)
 
@@ -1632,10 +1637,19 @@
 - S01E06 Don’t Poke the Bear
 
 **Season 2**
+- S02E01 Get 'Em Focused
 - S02E02 Skill vs. Will
 - S02E04 Players Only
 - S02E05 The Man Advantage
 - S02E06 Accountability
+
+**Season 3**
+- S03E01 4-6
+- S03E02 Charlottetown Reds
+- S03E03 Vaughan Canadesi
+- S03E04 Brooks Barrelmen
+- S03E05 SOO Hunt
+- S03E06 Les Rapides de Rawdon
 
 **Season 4**
 - S04E01 Summer in Sudvegas
@@ -1719,6 +1733,8 @@
 **Season 1**
 - S01E01 Freedom Day
 - S01E02 Holston's Pick
+- S01E03 Machines
+- S01E04 Truth
 - S01E05 The Janitor's Boy
 - S01E06 The Relic
 - S01E07 The Flamekeepers
@@ -1966,8 +1982,13 @@
 - S01E03 Lifeboats
 - S01E04 Sad Sack Wasp Trap
 - S01E05 I Went to Market
+- S01E06 Which Side Are You On?
+- S01E07 Austerlitz
+- S01E08 Prague
+- S01E09 Pre-Nuptial
 
 **Season 2**
+- S02E02 Vaulter
 - S02E05 Tern Haven
 - S02E06 Argestes
 - S02E08 Dundee
@@ -1979,9 +2000,22 @@
 - S03E02 Mass in Time of War
 - S03E03 The Disruption
 - S03E04 Lion in the Meadow
+- S03E05 Retired Janitors of Idaho
 - S03E06 What It Takes
 - S03E08 Chiantishire
 - S03E09 All the Bells Say
+
+**Season 4**
+- S04E01 The Munsters
+- S04E02 Rehearsal
+- S04E03 Connor's Wedding
+- S04E04 Honeymoon States
+- S04E05 Kill List
+- S04E06 Living+
+- S04E07 Tailgate Party
+- S04E08 America Decides
+- S04E09 Church and State
+- S04E10 With Open Eyes
 
 
 ### The Bear (2022)
@@ -2140,6 +2174,30 @@
 
 
 ### The Inbetweeners (2008)
+
+**Season 1**
+- S01E01 First Day
+- S01E02 Bunk Off
+- S01E03 Thorpe Park
+- S01E04 Will Gets a Girlfriend
+- S01E05 Caravan Club
+- S01E06 Xmas Party
+
+**Season 2**
+- S02E01 The Field Trip
+- S02E02 Work Experience
+- S02E03 Will's Birthday
+- S02E04 Night Out in London
+- S02E05 The Duke of Edinburgh Awards
+- S02E06 End of Term
+
+**Season 3**
+- S03E01 The Fashion Show
+- S03E02 The Gig and the Girlfriend
+- S03E03 Will's Dilemma
+- S03E04 The Trip to Warwick
+- S03E05 Home Alone
+- S03E06 The Camping Trip
 
 
 ### The Last of Us (2023)
@@ -2311,6 +2369,21 @@
 
 ### The Sopranos (1999)
 
+**Season 1**
+- S01E01 The Sopranos
+- S01E02 46 Long
+- S01E03 Denial, Anger, Acceptance
+- S01E04 Meadowlands
+- S01E05 College
+- S01E06 Pax Soprana
+- S01E07 Down Neck
+- S01E08 The Legend of Tennessee Moltisanti
+- S01E09 Boca
+- S01E10 A Hit Is a Hit
+- S01E11 Nobody Knows Anything
+- S01E12 Isabella
+- S01E13 I Dream of Jeannie Cusamano
+
 **Season 2**
 - S02E01 Guy Walks into a Psychiatrist's Office
 - S02E02 Do Not Resuscitate
@@ -2325,6 +2398,12 @@
 - S02E11 House Arrest
 - S02E12 The Knight in White Satin Armor
 - S02E13 Funhouse
+
+**Season 3**
+- S03E01 Mr. Ruggerio's Neighborhood
+- S03E02 Proshai, Livushka
+- S03E10 To Save Us All from Satan's Power
+- S03E12 Amour Fou
 
 **Season 4**
 - S04E01 For All Debts Public and Private
@@ -2341,6 +2420,16 @@
 - S04E12 Eloise
 - S04E13 Whitecaps
 
+**Season 5**
+- S05E02 Rat Pack
+- S05E03 Where's Johnny?
+- S05E04 All Happy Families
+- S05E07 In Camelot
+- S05E10 Cold Cuts
+- S05E11 The Test Dream
+- S05E12 Long Term Parking
+- S05E13 All Due Respect
+
 **Season 6**
 - S06E01 Members Only
 - S06E02 Join the Club
@@ -2352,6 +2441,17 @@
 - S06E08 Johnny Cakes
 - S06E09 The Ride
 - S06E10 Moe n' Joe
+- S06E11 Cold Stones
+- S06E12 Kaisha
+- S06E13 Soprano Home Movies
+- S06E14 Stage 5
+- S06E15 Remember When
+- S06E16 Chasing It
+- S06E17 Walk Like a Man
+- S06E18 Kennedy and Heidi
+- S06E19 The Second Coming
+- S06E20 The Blue Comet
+- S06E21 Made in America
 
 
 ### The Wheel of Time (2021)
@@ -2366,6 +2466,23 @@
 
 
 ### The White Lotus (2021)
+
+**Season 1**
+- S01E01 Arrivals
+- S01E02 New Day
+- S01E03 Mysterious Monkeys
+- S01E04 Recentering
+- S01E05 The Lotus-Eaters
+- S01E06 Departures
+
+**Season 2**
+- S02E01 Ciao
+- S02E02 Italian Dream
+- S02E03 Bull Elephants
+- S02E04 In the Sandbox
+- S02E05 That's Amore
+- S02E06 Abductions
+- S02E07 Arrivederci
 
 **Season 3**
 - S03E01 Same Spirits, New Forms
@@ -2727,4 +2844,4 @@
 **Summary:**
 - Movies: 394
 - TV Shows: 71
-- Episodes: 1777
+- Episodes: 1872
