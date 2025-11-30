@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-29 02:00:07 EST*
+*Last updated: 2025-11-30 02:00:07 EST*
 
 ## Movies
 
@@ -972,6 +972,7 @@
 **Season 2**
 - S02E01 Death and a Sunset
 - S02E02 Sins of the Father
+- S02E03 Almost a Home
 
 
 ### Lost (2004)
@@ -1328,6 +1329,11 @@
 - S01E10 Stennheiser-Pong Wedding Reception
 
 **Season 3**
+- S03E01 Kyle Bradway Is Nitromancer
+- S03E02 Jack Botty's Delayed Post-Pandemic Surprise Party
+- S03E03 First Annual PI2A Symposium
+- S03E04 KSGY-95 Prizewinner's Luau
+- S03E05 Once Upon a Time "Proms Away" Prom-otional Event
 - S03E06 Sepulveda Basin High School Spring Play Opening Night
 
 
@@ -1639,6 +1645,7 @@
 **Season 2**
 - S02E01 Get 'Em Focused
 - S02E02 Skill vs. Will
+- S02E03 Set the Tone
 - S02E04 Players Only
 - S02E05 The Man Advantage
 - S02E06 Accountability
@@ -1986,11 +1993,16 @@
 - S01E07 Austerlitz
 - S01E08 Prague
 - S01E09 Pre-Nuptial
+- S01E10 Nobody Is Ever Missing
 
 **Season 2**
+- S02E01 The Summer Palace
 - S02E02 Vaulter
+- S02E03 Hunting
+- S02E04 Safe Room
 - S02E05 Tern Haven
 - S02E06 Argestes
+- S02E07 Return
 - S02E08 Dundee
 - S02E09 DC
 - S02E10 This Is Not for Tears
@@ -2002,6 +2014,7 @@
 - S03E04 Lion in the Meadow
 - S03E05 Retired Janitors of Idaho
 - S03E06 What It Takes
+- S03E07 Too Much Birthday
 - S03E08 Chiantishire
 - S03E09 All the Bells Say
 
@@ -2402,8 +2415,17 @@
 **Season 3**
 - S03E01 Mr. Ruggerio's Neighborhood
 - S03E02 Proshai, Livushka
+- S03E03 Fortunate Son
+- S03E04 Employee of the Month
+- S03E05 Another Toothpick
+- S03E06 University
+- S03E07 Second Opinion
+- S03E08 He Is Risen
+- S03E09 The Telltale Moozadell
 - S03E10 To Save Us All from Satan's Power
+- S03E11 Pine Barrens
 - S03E12 Amour Fou
+- S03E13 Army of One
 
 **Season 4**
 - S04E01 For All Debts Public and Private
@@ -2421,10 +2443,15 @@
 - S04E13 Whitecaps
 
 **Season 5**
+- S05E01 Two Tonys
 - S05E02 Rat Pack
 - S05E03 Where's Johnny?
 - S05E04 All Happy Families
+- S05E05 Irregular Around the Margins
+- S05E06 Sentimental Education
 - S05E07 In Camelot
+- S05E08 Marco Polo
+- S05E09 Unidentified Black Males
 - S05E10 Cold Cuts
 - S05E11 The Test Dream
 - S05E12 Long Term Parking
@@ -2844,4 +2871,4 @@
 **Summary:**
 - Movies: 394
 - TV Shows: 71
-- Episodes: 1872
+- Episodes: 1899
