@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-11-30 02:00:07 EST*
+*Last updated: 2025-12-01 02:00:07 EST*
 
 ## Movies
 
@@ -2099,6 +2099,7 @@
 - S01E05 I won. Zoom in.
 - S01E06 Happy Birthday, A Friend.
 - S01E07 I said to my dog, "How do you like my hippie shirt?"
+- S01E08 Minnie Mouse coming back wasn't on my bingo card.
 
 
 ### The Expanse (2015)
@@ -2871,4 +2872,4 @@
 **Summary:**
 - Movies: 394
 - TV Shows: 71
-- Episodes: 1899
+- Episodes: 1900
