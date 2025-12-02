@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-12-01 02:00:07 EST*
+*Last updated: 2025-12-02 02:00:05 EST*
 
 ## Movies
 
@@ -32,6 +32,7 @@
 - Apocalypse Now (1979)
 - Argylle (2024)
 - Armageddon (1998)
+- Arthur's Whisky (2024)
 - Attack of the Killer Tomatoes! (1978)
 - Avengers: Age of Ultron (2015)
 - Avengers: Endgame (2019)
@@ -207,6 +208,7 @@
 - Phil Spector (2013)
 - Planes, Trains and Automobiles (1987)
 - Poltergeist (1982)
+- Poltergeist (2015)
 - Predator (1987)
 - Predator 2 (1990)
 - Prey (2022)
@@ -282,6 +284,7 @@
 - Star Wars: The Rise of Skywalker (2019)
 - Starship Troopers (1997)
 - State of Grace (1990)
+- Stone Cold (2005)
 - Superman (1978)
 - Superman (2025)
 - Superman II (1980)
@@ -345,6 +348,7 @@
 - The Naked Gun (2025)
 - The Naked Gun 2½: The Smell of Fear (1991)
 - The Naked Gun: From the Files of Police Squad! (1988)
+- The Northman (2022)
 - The Phoenician Scheme (2025)
 - The Rose (1979)
 - The Royal Tenenbaums (2001)
@@ -911,6 +915,16 @@
 
 ### His Dark Materials (2019)
 
+**Season 3**
+- S03E01 The Enchanted Sleeper
+- S03E02 The Break
+- S03E03 The Intention Craft
+- S03E04 Lyra and Her Death
+- S03E05 No Way Out
+- S03E06 The Abyss
+- S03E07 The Clouded Mountain
+- S03E08 The Botanic Garden
+
 
 ### House of the Dragon (2022)
 
@@ -1327,6 +1341,18 @@
 - S01E08 Celebrate Ricky Sargulesh
 - S01E09 James Rolf High School Twentieth Reunion
 - S01E10 Stennheiser-Pong Wedding Reception
+
+**Season 2**
+- S02E01 Jackal Onassis Backstage Party
+- S02E02 Precious Lights Pre-School Auction
+- S02E03 Nick DiCintio's Orgy Night
+- S02E04 James Ellison Funeral
+- S02E05 Steve Guttenberg's Birthday
+- S02E06 Not On Your Wife Opening Night
+- S02E07 Party Down Company Picnic
+- S02E08 Joel Munt's Big Deal Party
+- S02E09 Cole Landry's Draft Day Party
+- S02E10 Constance Carmell Wedding
 
 **Season 3**
 - S03E01 Kyle Bradway Is Nitromancer
@@ -1763,6 +1789,68 @@
 
 
 ### South Park (1997)
+
+**Specials**
+- S00E43 South Park
+- S00E44 South Park
+- S00E45 South Park
+- S00E46 South Park
+- S00E48 South Park
+- S00E49 South Park
+
+**Season 1**
+- S01E01 Cartman Gets an Anal Probe
+- S01E02 Volcano
+- S01E03 Weight Gain 4000
+- S01E04 Big Gay Al's Big Gay Boat Ride
+- S01E05 An Elephant Makes Love to a Pig
+- S01E06 Death
+- S01E07 Pinkeye
+- S01E08 Starvin' Marvin
+- S01E09 Mr. Hankey, the Christmas Poo
+- S01E10 Damien
+- S01E11 Tom's Rhinoplasty
+- S01E12 Mecha-Streisand
+- S01E13 Cartman's Mom Is a Dirty Slut
+
+**Season 2**
+- S02E01 Terrance and Phillip in Not Without My Anus
+- S02E02 Cartman's Mom Is Still a Dirty Slut
+- S02E03 Ike's Wee Wee
+- S02E04 Chickenlover
+- S02E05 Conjoined Fetus Lady
+- S02E06 The Mexican Staring Frog of Southern Sri Lanka
+- S02E07 City on the Edge of Forever (Flashbacks)
+- S02E08 Summer Sucks
+- S02E09 Chef's Chocolate Salty Balls
+- S02E10 Chickenpox
+- S02E11 Roger Ebert Should Lay Off the Fatty Foods
+- S02E12 Clubhouses
+- S02E13 Cow Days
+- S02E14 Chef Aid
+- S02E15 Spookyfish
+- S02E16 Merry Christmas Charlie Manson!
+- S02E17 Gnomes
+- S02E18 Prehistoric Ice Man
+
+**Season 3**
+- S03E01 Rainforest Shmainforest
+- S03E02 Spontaneous Combustion
+- S03E03 The Succubus
+- S03E04 Jakovasaurs
+- S03E05 Tweek vs. Craig
+- S03E06 Sexual Harassment Panda
+- S03E07 Cat Orgy
+- S03E08 Two Guys Naked in a Hot Tub
+- S03E09 Jewbilee
+- S03E10 Korn's Groovy Pirate Ghost Mystery
+- S03E11 Chinpokomon
+- S03E12 Hooked on Monkey Fonics
+- S03E13 Starvin' Marvin in Space
+- S03E14 The Red Badge of Gayness
+- S03E15 Mr. Hankey's Christmas Classics
+- S03E16 Are You There God? It's Me, Jesus
+- S03E17 World Wide Recorder Concert
 
 **Season 27**
 - S27E02 Got a Nut
@@ -2490,7 +2578,9 @@
 - S03E03 Seeds of Shadow
 - S03E04 The Road to the Spear
 - S03E05 Tel’aran’rhiod
+- S03E06 The Shadow in the Night
 - S03E07 Goldeneyes
+- S03E08 He Who Comes with the Dawn
 
 
 ### The White Lotus (2021)
@@ -2870,6 +2960,6 @@
 ---
 
 **Summary:**
-- Movies: 394
+- Movies: 398
 - TV Shows: 71
-- Episodes: 1900
+- Episodes: 1974
