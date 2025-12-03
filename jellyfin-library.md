@@ -1,5 +1,5 @@
 # Jellyfin Library Backup - Chambers Media Server
-*Last updated: 2025-12-02 02:00:05 EST*
+*Last updated: 2025-12-03 02:00:37 EST*
 
 ## Movies
 
@@ -56,6 +56,7 @@
 - Blade Runner 2049 (2017)
 - Boogie Nights (1997)
 - Borderlands (2024)
+- Boxing Day (2021)
 - Bram Stoker's Dracula (1992)
 - Bugonia (2025)
 - Butch Cassidy and the Sundance Kid (1969)
@@ -134,6 +135,7 @@
 - Harry Potter and the Philosopher's Stone (2001)
 - Harry Potter and the Prisoner of Azkaban (2004)
 - Heat (1995)
+- Heretic (2024)
 - Hoosiers (1986)
 - House of Gucci (2021)
 - How to Train Your Dragon (2025)
@@ -208,7 +210,6 @@
 - Phil Spector (2013)
 - Planes, Trains and Automobiles (1987)
 - Poltergeist (1982)
-- Poltergeist (2015)
 - Predator (1987)
 - Predator 2 (1990)
 - Prey (2022)
@@ -254,6 +255,7 @@
 - Sonic the Hedgehog (2020)
 - Sonic the Hedgehog 2 (2022)
 - Sonic the Hedgehog 3 (2024)
+- Soylent Green (1973)
 - Spaceballs (1987)
 - Speak No Evil (2024)
 - Spider-Man (2002)
@@ -328,6 +330,7 @@
 - The Good, the Bad and the Ugly (1966)
 - The Gorge (2025)
 - The Hitchhiker's Guide to the Galaxy (2005)
+- The Holdovers (2023)
 - The Hunt for Red October (1990)
 - The Incredible Hulk (2008)
 - The Informant! (2009)
@@ -649,6 +652,16 @@
 - S01E06 Swish
 - S01E07 Oceans Apart
 - S01E08 After the Rain
+
+**Season 2**
+- S02E01 Capital R Rake
+- S02E02 Off to the Races
+- S02E03 A Bee in Your Bonnet
+- S02E04 Victory
+- S02E05 An Unthinkable Fate
+- S02E06 The Choice
+- S02E07 Harmony
+- S02E08 The Viscount Who Loved Me
 
 **Season 3**
 - S03E01 Out of the Shadows
@@ -1791,12 +1804,16 @@
 ### South Park (1997)
 
 **Specials**
+- S00E00 South.Park.Bigger.Longer.and.Uncut
 - S00E43 South Park
 - S00E44 South Park
 - S00E45 South Park
 - S00E46 South Park
 - S00E48 South Park
 - S00E49 South Park
+
+**Season Unknown**
+- S00E00 South.Park.Bigger.Longer.and.Uncut
 
 **Season 1**
 - S01E01 Cartman Gets an Anal Probe
@@ -1852,6 +1869,125 @@
 - S03E16 Are You There God? It's Me, Jesus
 - S03E17 World Wide Recorder Concert
 
+**Season 4**
+- S04E01 The Tooth Fairy Tats 2000
+- S04E02 Cartman's Silly Hate Crime 2000
+- S04E03 Timmy 2000
+- S04E04 Quintuplets 2000
+- S04E05 Cartman Joins NAMBLA
+- S04E06 Cherokee Hair Tampons
+- S04E07 Chef Goes Nanners
+- S04E08 Something You Can Do with Your Finger
+- S04E09 Do the Handicapped Go to Hell? (1)
+- S04E10 Probably (2)
+- S04E11 Fourth Grade
+- S04E12 Trapper Keeper
+- S04E13 Helen Keller! The Musical
+- S04E14 Pip
+- S04E15 Fat Camp
+- S04E16 The Wacky Molestation Adventure
+- S04E17 A Very Crappy Christmas
+
+**Season 5**
+- S05E01 It Hits the Fan
+- S05E02 Cripple Fight
+- S05E03 Super Best Friends
+- S05E04 Scott Tenorman Must Die
+- S05E05 Terrance and Phillip: Behind the Blow
+- S05E06 Cartmanland
+- S05E07 Proper Condom Use
+- S05E08 Towelie
+- S05E09 Osama Bin Laden Has Farty Pants
+- S05E10 How to Eat with Your Butt
+- S05E11 The Entity
+- S05E12 Here Comes the Neighborhood
+- S05E13 Kenny Dies
+- S05E14 Butters' Very Own Episode
+
+**Season 6**
+- S06E01 Jared Has Aides
+- S06E02 Asspen
+- S06E03 Freak Strike
+- S06E04 Fun With Veal
+- S06E05 The New Terrance and Phillip Movie Trailer
+- S06E06 Professor Chaos
+- S06E07 The Simpsons Already Did It
+- S06E08 Red Hot Catholic Love
+- S06E09 Free Hat
+- S06E10 Bebe's Boobs Destroy Society
+- S06E11 Child Abduction is Not Funny
+- S06E12 A Ladder to Heaven
+- S06E13 The Return of the Fellowship of the Ring to the Two Towers
+- S06E14 The Death Camp of Tolerance
+- S06E15 The Biggest Douche in the Universe
+- S06E16 My Future Self n' Me
+- S06E17 Red Sleigh Down
+
+**Season 7**
+- S07E01 Cancelled
+- S07E02 Krazy Kripples
+- S07E03 Toilet Paper
+- S07E04 I'm a Little Bit Country
+- S07E05 Fat Butt and Pancake Head
+- S07E06 Lil' Crime Stoppers
+- S07E07 Red Man's Greed
+- S07E08 South Park is Gay
+- S07E09 Christian Rock Hard
+- S07E10 Grey Dawn
+- S07E11 Casa Bonita
+- S07E12 All About Mormons
+- S07E13 Butt Out
+- S07E14 Raisins
+- S07E15 It's Christmas in Canada
+
+**Season 8**
+- S08E01 Good Times with Weapons
+- S08E02 Up the Down Steroid
+- S08E03 The Passion of the Jew
+- S08E04 You Got F'd in the A
+- S08E05 AWESOM-O
+- S08E06 The Jeffersons
+- S08E07 Goobacks
+- S08E08 Douche and Turd
+- S08E09 Something Wall-Mart This Way Comes
+- S08E10 Pre-School
+- S08E11 Quest for Ratings
+- S08E12 Stupid Spoiled Whore Video Playset
+- S08E13 Cartman's Incredible Gift
+- S08E14 Woodland Critter Christmas
+
+**Season 9**
+- S09E01 Mr. Garrison's Fancy New Vagina
+- S09E02 Die Hippie, Die
+- S09E03 Wing
+- S09E04 Best Friends Forever
+- S09E05 The Losing Edge
+- S09E06 The Death of Eric Cartman
+- S09E07 Erection Day
+- S09E08 Two Days Before the Day After Tomorrow
+- S09E09 Marjorine
+- S09E10 Follow That Egg
+- S09E11 Ginger Kids
+- S09E12 Trapped in the Closet
+- S09E13 Free Willzyx
+- S09E14 Bloody Mary
+
+**Season 10**
+- S10E01 The Return of Chef
+- S10E02 Smug Alert!
+- S10E03 Cartoon Wars (1)
+- S10E04 Cartoon Wars (2)
+- S10E05 A Million Little Fibers
+- S10E06 Manbearpig
+- S10E07 Tsst
+- S10E08 Make Love, Not Warcraft
+- S10E09 Mystery of the Urinal Deuce
+- S10E10 Miss Teacher Bangs a Boy
+- S10E11 Hell on Earth 2006
+- S10E12 Go God Go (1)
+- S10E13 Go God Go XII (2)
+- S10E14 Stanley's Cup
+
 **Season 27**
 - S27E02 Got a Nut
 - S27E03 Sickofancy
@@ -1870,11 +2006,15 @@
 
 **Season 1**
 - S01E01 Broken Bow
+- S01E02 Broken Bow, Part 2
+- S01E03 Fight or Flight
 - S01E04 Strange New World
+- S01E05 Unexpected
 - S01E06 Terra Nova
 - S01E07 The Andorian Incident
 - S01E08 Breaking the Ice
 - S01E09 Civilization
+- S01E10 Fortunate Son
 - S01E11 Cold Front
 - S01E12 Silent Enemy
 - S01E13 Dear Doctor
@@ -2960,6 +3100,6 @@
 ---
 
 **Summary:**
-- Movies: 398
+- Movies: 401
 - TV Shows: 71
-- Episodes: 1974
+- Episodes: 2092
